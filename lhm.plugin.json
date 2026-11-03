@@ -1,0 +1,11 @@
+{
+  "identifier": "aiclicks-mcp",
+  "name": "AIclicks MCP",
+  "version": "1.0.0",
+  "description": "Track how ChatGPT, Gemini, Perplexity, Claude, Microsoft Copilot, Grok, Google AI Overviews, Google AI Mode, Meta AI, Mistral, Qwen, DeepSeek and Naver mention and cite your brand.",
+  "author": "AIclicks",
+  "authorUrl": "https://aiclicks.io",
+  "homepage": "https://aiclicks.io",
+  "cloudEndpoint": "https://mcp.aiclicks.io/mcp",
+  "tags": ["ai-visibility", "geo", "seo", "brand-monitoring", "llm", "citations", "chatgpt", "perplexity", "gemini", "ai-overviews"]
+}
