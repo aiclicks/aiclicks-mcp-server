@@ -1,6 +1,6 @@
 # AIclicks MCP
 
-Track how ChatGPT, Perplexity, Gemini and Google AI Overviews mention and cite your brand.
+Track how ChatGPT, Gemini, Perplexity, Claude, Microsoft Copilot, Grok, Google AI Overviews, Google AI Mode, Meta AI, Mistral, Qwen, DeepSeek and Naver mention and cite your brand.
 
 AIclicks MCP is a hosted, remote [Model Context Protocol](https://modelcontextprotocol.io) server. Connect it to Claude, ChatGPT, Cursor or any MCP client and ask about your brand's AI visibility, competitors, citations and prompts in plain language.
 
